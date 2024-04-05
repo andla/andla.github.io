@@ -1,7 +1,7 @@
 {
-    'info':"C",
-    'language':"sv_SE",
-    'message':"C är ett generellt, imperativt programspråk som tillhör familjen Algol-baserade språk. Det är avsett för strukturerad programmering och är ett av världens mest populära programspråk. Det finns C-kompilatorer för nästan alla plattformar, och dess syntax och standardbibliotek har standardiserats av ANSI och ISO.
+    "info":"C",
+    "language":"sv_SE",
+    "message":"C är ett generellt, imperativt programspråk som tillhör familjen Algol-baserade språk. Det är avsett för strukturerad programmering och är ett av världens mest populära programspråk. Det finns C-kompilatorer för nästan alla plattformar, och dess syntax och standardbibliotek har standardiserats av ANSI och ISO.
     Historiskt sett skapades C mellan 1969 och 1973 av Dennis Ritchie vid AT&T Bell Laboratories. Ritchie baserade C på det tidigare programmeringsspråket B, som utvecklades av Ken Thompson. B var dock inte generellt eller plattformsoberoende, så Ritchie skapade C för att fungera på både mainframedatorer och mini- och mikrodatorer. Den första officiella versionen av Unix, som var helt skriven i assembler för PDP-11, kom 1970. C användes för att skriva om stora delar av Unix och blev en viktig del av dess framgång.
     Boken "The C Programming Language", även känd som K&R efter Kernighan & Ritchie, fungerade som en referens och informell specifikation av språket. C har inspirerat och legat till grund för många andra språk, inklusive C++ och Java"
 }
