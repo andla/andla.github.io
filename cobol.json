@@ -1,0 +1,8 @@
+{
+    info:"Cobol",
+    language:"sv_SE",
+    message:"COBOL (Common Business Oriented Language) är ett programspråk som främst är avsett för affärsändamål. Det används i områden som personaladministration, finansiella tjänster, orderhantering, och andra produktionssystem. Namnet är en akronym som står för "Allmänt affärsorienterat språk" .
+    Historiskt sett skapades COBOL år 1959 av CODASYL (The Conference On Data System Languages), en grupp initierad av USA:s försvarsdepartement. Denna grupp bestod av representanter från olika datortillverkare och myndigheter, inklusive programmeraren Jean E. Sammet. Den första specifikationen godkändes i maj 1960, och resultatet fick namnet 'COBOL 60'. Inspiration hämtades från andra språk som FLOW-MATIC (skapat av Grace Hopper) och IBM:s COMTRAN.
+    COBOL fick snabbt stor spridning och var under 1960- och 1970-talet det dominerande programspråket för affärssystem. Än idag används COBOL i stor skala i administrativa och finansiella tillämpningar i många större företag, inklusive bankväsendet. COBOL har även utvecklats över tiden, och COBOL 2002-standarden stöder nu objektorientering och andra moderna datatekniska framsteg.
+    Trots sin ålder fortsätter COBOL att användas vid utveckling av affärsnära applikationer. Flera svenska storbanker, såsom Nordea, Handelsbanken, Swedbank, och SEB, kör fortfarande stora delar av sin verksamhet i COBOL-system. Språket kännetecknas av en ordrik syntax, där man strävat efter att efterlikna normalt skriven engelska. Trots kritik för att syntaxen är överflödig och otymplig, fortsätter COBOL att vara en viktig del av affärsvärlden"
+}
